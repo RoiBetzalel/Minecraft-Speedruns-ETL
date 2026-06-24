@@ -38,13 +38,13 @@ Power BI
 
 ## Screenshots
 
-## Airflow DAG
-
-![Airflow](screenshots/Airflow.png)
-
 ## MongoDB
 
 ![MongoDB](screenshots/MongoDB.png)
+
+## Airflow DAG
+
+![Airflow](screenshots/Airflow.png)
 
 ## PostgreSQL
 
