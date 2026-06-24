@@ -38,14 +38,14 @@ Power BI
 
 ## Screenshots
 
-### Airflow DAG
+## Airflow DAG
 
-![Airflow](screenshots/airflow_success.png)
+![Airflow](screenshots/Airflow.png)
 
-### PostgreSQL
+## MongoDB
 
-![Postgres](screenshots/postgres_table.png)
+![MongoDB](screenshots/MongoDB.png)
 
-### Power BI Dashboard
+## PostgreSQL
 
-![Dashboard](screenshots/powerbi_dashboard.png)
+![PgAdmin](screenshots/Pgadmin.png)
