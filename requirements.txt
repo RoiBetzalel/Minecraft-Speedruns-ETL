@@ -1,0 +1,3 @@
+pandas
+sqlalchemy
+apache-airflow-providers-amazon
